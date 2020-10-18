@@ -1,0 +1,30 @@
+h1{
+margin-left:20%;
+}
+font{
+font-family: 'Montserrat', sans-serif;
+}
+.one{
+list-style-type: circle;
+list-style-position: inside;
+ padding: 3px;
+ font-style: italic;
+}
+.lists{
+list-style-type: square;
+}
+p{
+margin-left:5%;
+}
+#al2{
+margin-left:25%;
+}
+#al3{
+margin-left:9%;
+}
+#al4{
+margin-left:9%;
+}
+#al5{
+margin-left:9%;
+}
